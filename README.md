@@ -78,7 +78,7 @@ Essa seção descreve o que será dito para cada tópico da lista curta
 - **Matemática**:
   - implementação ingênua
   - resultado obtido
-  - implementação esperta resultado obtido
-  - 
+  - implementação esperta
+  - resultado obtido
 - **Aplicação** (LM35):
   - mostrar sinal filtrado/não filtrado
